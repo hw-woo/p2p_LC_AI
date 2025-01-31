@@ -1,4 +1,4 @@
-#### Topic: Identifying unfair issues (biases) that arise paradoxically from AI's superior performance in the entrepreneurial field
+#### Topic: "Identifying unfair issues (biases) that arise paradoxically from AI's superior performance in the entrepreneurial field"
 #### Sonny Song (xs2512@columbia.edu); Zi Wang (zw2933@columbia.edu); Hyunwoo Woo (hw2980@columbia.edu)
 
 
