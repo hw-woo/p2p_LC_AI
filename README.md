@@ -1,5 +1,5 @@
 # Topic: Identifying unfair issues (biases) that arise paradoxically from AI's superior performance in the entrepreneurial field
-### Team 3 (DrFE): Sonny Song (xs2512); Zi Wang (zw2933); Hyunwoo Woo (hw2980)
+### Team 3 (DrFE): Sonny Song (xs2512@columbia.edu); Zi Wang (zw2933@columbia.edu); Hyunwoo Woo (hw2980@columbia.edu)
 
 
 - Keywords: Entrepreneurial Finance; Entrepreneurship; AI in Finance; Peer-to-Peer Lending
