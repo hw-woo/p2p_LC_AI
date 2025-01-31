@@ -7,4 +7,4 @@
 
 
 #### This folder is for the MSFE Masters Thesis of Team 3 (DrFE)
-The raw LendingClub dataset can be downloaded from: https://drive.google.com/drive/folders/1-dQkC61jFhhaOjmo3XJA70u0zatm5mdv?usp=sharing
+- The raw LendingClub dataset can be downloaded from: https://drive.google.com/drive/folders/1-dQkC61jFhhaOjmo3XJA70u0zatm5mdv?usp=sharing
