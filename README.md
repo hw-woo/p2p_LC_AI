@@ -2,7 +2,7 @@
 #### Sonny Song (xs2512@columbia.edu); Zi Wang (zw2933@columbia.edu); Hyunwoo Woo (hw2980@columbia.edu)
 
 
-- Keywords: Entrepreneurial Finance; Entrepreneurship; AI in Finance; Peer-to-Peer Lending
+- Keywords: Entrepreneurial Finance; Entrepreneurship; AI in Finance; Peer-to-Peer Lending (P2P Lending)
 - Updated: 2025-01-30 (23:59 EST)
 
 
