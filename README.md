@@ -3,7 +3,7 @@
 
 
 - Keywords: Entrepreneurial Finance; Entrepreneurship; AI in Finance; Peer-to-Peer Lending (P2P Lending)
-- Updated: 2025-01-30 (23:59 EST)
+- Updated: 2025-02-08 (17:00 EST)
 
 
 #### This folder is for the MSFE Masters Thesis of Team 3 (DrFE)
